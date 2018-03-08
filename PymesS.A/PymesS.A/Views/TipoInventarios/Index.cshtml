@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Entity.TipoInventario>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-400px;">
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2>Lista De Tipo Inventario</h2>
+
+            <p>
+                <a href="~/TipoInventarios/Create" class="btn btn-primary">Crear Nuevo </a>
+            </p>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NombresTipoInventario)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NombresTipoInventario)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.activo)
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", "TipoInventarios", new { id=item.IdTipoInventario }) " class="btn btn-danger">Editar</a>
+                            <a href="@Url.Action("Details", "TipoInventarios", new { id=item.IdTipoInventario}) " class="btn btn-primary">Detalles</a>
+                            <a href="@Url.Action("Delete", "TipoInventarios", new  {id=item.IdTipoInventario }) " class="btn btn-warning">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+            </div>
+</div>
+</div>

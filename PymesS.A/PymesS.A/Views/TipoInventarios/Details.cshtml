@@ -1,0 +1,42 @@
+﻿@model Entity.TipoInventario
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-400px;">
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2>Detalles Tipo Inventario</h2>
+
+            <div>
+                <h4>TipoInventario</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NombresTipoInventario)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NombresTipoInventario)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.activo)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                <a href="@Url.Action("Edit", "TipoInventarios", new { id = Model.IdTipoInventario }) " class="btn btn-primary">Editar</a>
+                <a href="~/TipoInventarios/Index" class="btn btn-danger">Regresar a Lista</a>
+            </p>
+            </div>
+</div>
+</div>

@@ -1,0 +1,65 @@
+﻿@model Entity.Proveedor
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-400px;">
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2>Eliminar Proveedor</h2>
+
+            <h3>Estas seguro de Eliminar este Proveedor?</h3>
+            <div>
+                <h4>Proveedor</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Nombres)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Nombres)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Correo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Correo)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Telefono)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Telefono)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.activo)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-primary" /> 
+                        <a href="~/Proveedor/Index" class="btn btn-danger">Regresar a Lista</a>
+                    </div>
+                }
+            </div>
+            </div>
+</div>
+</div>

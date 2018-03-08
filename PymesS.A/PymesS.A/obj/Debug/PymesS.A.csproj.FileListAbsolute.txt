@@ -1,0 +1,312 @@
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.pdb
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\csc.exe
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\vbc.exe
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.dll.config
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.pdb
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Antlr3.Runtime.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Newtonsoft.Json.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Owin.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Helpers.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Mvc.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Optimization.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Razor.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\WebGrease.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Helpers.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Mvc.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Optimization.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Razor.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Antlr3.Runtime.pdb
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Newtonsoft.Json.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Razor.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\EntityFramework.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Entity.dll
+C:\Users\Francisco Rios\Desktop\AppicationPymes\PymesS.A\PymesS.A\bin\Entity.pdb
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\csc.exe
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\System.Collections.Immutable.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\System.Reflection.Metadata.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\vbc.exe
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe.config
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.dll.config
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PymesS.A.pdb
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Antlr3.Runtime.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Caseiro.Mvc.PagedList.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\DAL.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\DbHelper.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Entity.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.Common.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.ExecProcTask.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.Types.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Web.Infrastructure.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Newtonsoft.Json.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Owin.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PagedList.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PagedList.Mvc.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\ReportViewerForMvc.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Helpers.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Mvc.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Optimization.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Razor.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\WebGrease.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.ManagedDTS.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.DTSRuntimeWrap.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\stdole.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.PipelineHost.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.DTSPipelineWrap.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Entity.pdb
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PagedList.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\PagedList.Mvc.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Helpers.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Mvc.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Optimization.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.Razor.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Antlr3.Runtime.pdb
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Newtonsoft.Json.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Helpers.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Mvc.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Optimization.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.Razor.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.csprojResolveAssemblyReference.cache
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.Creando_SP.resources
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.UserNombreCompleto.resources
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.Creando_SPS.resources
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.RecursosSQL.resources
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.csproj.GenerateResource.Cache
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.dll
+F:\AppicationPymes\PymesS.A\PymesS.A\obj\Debug\PymesS.A.pdb
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\csc.exe
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\System.Collections.Immutable.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\System.Reflection.Metadata.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\vbc.exe
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\roslyn\VBCSCompiler.exe.config
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PymesS.A.dll.config
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PymesS.A.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PymesS.A.pdb
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Antlr3.Runtime.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Caseiro.Mvc.PagedList.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\DAL.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\DbHelper.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Entity.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\EntityFramework.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.Common.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.ExecProcTask.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.Types.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Web.Infrastructure.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Newtonsoft.Json.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Owin.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PagedList.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PagedList.Mvc.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\ReportViewerForMvc.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Helpers.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Mvc.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Optimization.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Razor.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\WebGrease.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.ManagedDTS.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.PipelineHost.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Entity.pdb
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\EntityFramework.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\EntityFramework.SqlServer.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PagedList.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\PagedList.Mvc.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Helpers.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Mvc.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Optimization.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.Razor.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.Deployment.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\System.Web.WebPages.Razor.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Antlr3.Runtime.pdb
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Newtonsoft.Json.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Google.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.Helpers.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.Mvc.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.Optimization.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.Razor.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.csprojResolveAssemblyReference.cache
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.Creando_SP.resources
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.UserNombreCompleto.resources
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.Migrations.Creando_SPS.resources
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.RecursosSQL.resources
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.csproj.GenerateResource.Cache
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.dll
+D:\Eddy\Mis Documentos\Visual Studio 2015\Projects\PymesS.A\PymesS.A\obj\Debug\PymesS.A.pdb

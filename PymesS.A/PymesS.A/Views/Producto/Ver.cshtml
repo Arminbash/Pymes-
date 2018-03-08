@@ -1,0 +1,28 @@
+﻿@model Entity.Producto
+
+@{ 
+    ViewBag.Title = Model.NombreProducto;
+}
+
+<ol class="breadcrumb">
+    <li><a href="~/Producto/Index">Producto</a></li>
+    <li class="active">@(Model.NombreProducto )</li>
+</ol>
+
+<div class="panel panel-default">
+    <div class="page-header">Informacion del Producto</div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>Nombre Producto</dt>
+            <dd>@Model.NombreProducto</dd>
+            <dt>Precio Unitario</dt>
+            <dd>@Model.PrecioXUnidad</dd>
+            <dt>Descripcion</dt>
+            <dd>@Model.Descripcion</dd>
+            <dt>Prodcuto Activo</dt>
+            <dd>@Model.activo</dd>
+            <dd>@Model.IdTipoProducto</dd>
+
+        </dl>
+    </div>
+</div>

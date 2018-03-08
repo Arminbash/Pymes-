@@ -1,0 +1,90 @@
+﻿@model Entity.EntradaProducto
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-400px;">
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2>Detalle Entrada Producto</h2>
+
+            <div>
+                <h4>EntradaProducto</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NombreMateriaPrima)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NombreMateriaPrima)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FechaEntrante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FechaEntrante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CantidadEntrante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CantidadEntrante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Descripcion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Descripcion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.PrecioxUnidad)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.PrecioxUnidad)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.activo)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Producto.NombreProducto)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Producto.NombreProducto)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Inventario.IdInventario)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Inventario.IdInventario)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                <a href="@Url.Action("Edit", "EntradaProducto", new { id = Model.IdEntradaProducto }) " class="btn btn-primary">Editar</a>
+                <a href="~/EntradaProducto/Index" class="btn btn-danger">Regresar a Lista</a>
+            </p>
+            </div>
+</div>
+</div>

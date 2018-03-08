@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Entity.Proveedor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}<div class="container-fluid" style="position:relative; top:20px; right:-320px;">
+    <div class="row">
+        <div class="col-md-9">
+            <h2>Lista de Proveedores</h2>
+
+            <p>
+                <a href="~/Proveedor/Create" class="btn btn-primary">Crear Nuevo </a>
+            </p>
+            <table id="listar" class="table">
+                <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombres)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Correo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Telefono)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </th>
+                    <th></th>
+                </tr>
+                    </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombres)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Correo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Telefono)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.activo)
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Proveedor", new { id=item.IdProveedor }) " class="btn btn-danger">Editar</a>
+                            <a href="@Url.Action("Details", "Proveedor", new { id=item.IdProveedor}) " class="btn btn-primary">Detalles</a>
+                            <a href="@Url.Action("Delete", "Proveedor", new  {id=item.IdProveedor}) " class="btn btn-warning">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+                    </tbody>
+            </table>
+            </div>
+</div>
+</div>
+<link href="~/Content/jquery.dataTables.min.css" rel="stylesheet" />
+@Scripts.Render("~/bundles/datatables")
+@section scripts{
+    
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+        $(document).ready(function () {
+         $('#listar').DataTable({
+           "paging": true,
+           "recordsFiltered": 10,
+           "lengthChange": false,
+           "searching": true,
+           "ordering": true,
+           "info": true,
+           "autoWidth": false
+            });
+         });
+</script>
+    
+    }

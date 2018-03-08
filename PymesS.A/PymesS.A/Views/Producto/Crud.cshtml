@@ -1,0 +1,92 @@
+﻿@model Entity.Producto
+@{
+    ViewBag.Title = (Model.NombreProducto);
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-10">
+            <ol class="breadcrumb">
+                <li><a href="~/Alumno/Index">Alumno</a></li>
+                <li class="active">@(Model.IdProducto > 0 ? Model.NombreProducto : "Nuevo Registro")</li>
+            </ol>
+
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="informacion">
+                    @using (Html.BeginForm("Guardar", "Producto", FormMethod.Post, new { id = "frm-producto" }))
+                    {
+                        @Html.HiddenFor(x => x.IdProducto)
+                        <div class="panel panel-primary">
+                            <div class="page-header">Informacion Personal</div>
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    @Html.LabelFor(x => x.IdTipoProducto)
+                                    @Html.TextBoxFor(x => x.IdTipoProducto, null, htmlAttributes: new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => x.IdTipoProducto, null, new { @class = "label label-danger" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(x => x.NombreProducto)
+                                    @Html.TextBoxFor(x => x.NombreProducto, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => x.NombreProducto, null, new { @class = "label label-danger" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(x => x.PrecioXUnidad)
+                                    @Html.TextBoxFor(x => x.PrecioXUnidad, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => x.PrecioXUnidad, null, new { @class = "label label-danger" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(x => x.Descripcion)
+                                    @Html.TextBoxFor(x => x.Descripcion, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(x => x.Descripcion, null, new { @class = "label label-danger" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(x => x.activo)
+                                    <div class="checkbox checkbox-inline">
+                                        @Html.EditorFor(x => x.activo)
+                                        @Html.ValidationMessageFor(x => x.activo, "", new { @class = "label label-danger" })
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            @if (Model.IdProducto > 0)
+                {
+                                <a href="#" class="btn btn-success" data-toggle="modal" data-target="#ModalEliminar">Eliminar</a>
+                            }
+                            <button type="submit" class="btn btn-primary">Grabar</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="ModalEliminar" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Confirmación de Borrado</h4>
+            </div>
+            <div class="modal-body">
+                <p>Quiere borrar el Producto '@Model.NombreProducto'.</p>
+                <p>
+                    <strong>Esta Seguro de Continuar?</strong>
+                </p>
+            </div>
+            <div class="modal-footer">
+                @if (Model.IdProducto > 0)
+                {
+                    <a href="~/Producto/eliminar/@Model.IdProducto"
+                       class="btn btn-danger">Si, Borrar el Empleado</a>
+                }
+                <button type="button" class="btn btn-success" data-dismiss="modal">
+                    No, Borrar al Prodcuto
+                </button>
+
+            </div>
+        </div>
+    </div>
+</div>

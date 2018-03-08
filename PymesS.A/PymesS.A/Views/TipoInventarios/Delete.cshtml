@@ -1,0 +1,49 @@
+﻿@model Entity.TipoInventario
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-400px;">
+    <div class="row">
+        <div class="col-md-9">
+
+            <h2>Eliminar Tipo Inventario</h2>
+
+            <h3>Estas seguro de eliminar este Tipo Inventario?</h3>
+            <div>
+                <h4>TipoInventario</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NombresTipoInventario)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NombresTipoInventario)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.activo)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-primary" /> 
+                        <a href="~/TipoInventarios/Index" class="btn btn-danger">Regresar a Lista</a>
+                    </div>
+                }
+            </div>
+            </div>
+</div>
+</div>

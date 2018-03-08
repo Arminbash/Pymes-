@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Entity.EntradaProducto>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Menubar.cshtml";
+}
+
+<div class="container-fluid" style="position:relative; top:20px; right:-350px;">
+    <div class="row">
+        <div class="col-md-6">
+
+            <h2>Lista de Entrada Producto</h2>
+
+            <p>
+                <a href="~/EntradaProducto/Create" class="btn btn-primary">Crear Nuevo </a>
+            </p>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NombreMateriaPrima)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FechaEntrante)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CantidadEntrante)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Descripcion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PrecioxUnidad)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.activo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Producto.NombreProducto)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Inventario.IdInventario)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NombreMateriaPrima)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FechaEntrante)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CantidadEntrante)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Descripcion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PrecioxUnidad)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.activo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Producto.NombreProducto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Inventario.IdInventario)
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Edit", "EntradaProducto", new { id=item.IdEntradaProducto }) " class="btn btn-danger">Editar</a>
+                            <a href="@Url.Action("Details", "EntradaProducto", new { id=item.IdEntradaProducto}) " class="btn btn-primary">Detalles</a>
+                            <a href="@Url.Action("Delete", "EntradaProducto", new  {id=item.IdEntradaProducto }) " class="btn btn-warning">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+            </div>
+</div>
+</div>

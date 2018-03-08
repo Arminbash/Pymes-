@@ -1,0 +1,52 @@
+﻿@model Entity.PagoManoObra
+
+<div>
+    <h4>PagoManoObra</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HorasTrabjadas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HorasTrabjadas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PagoxHora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PagoxHora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.total)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.activo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.activo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Persona.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Persona.Nombre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdPagoManoObra }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

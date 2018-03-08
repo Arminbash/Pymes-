@@ -1,0 +1,52 @@
+﻿@model List<Entity.Producto>
+
+@{
+    ViewBag.Title = "Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="container">
+    <div class="well well-sm">
+        <div class="row">
+            <div class="col-xs-10">
+                <h2>Producto</h2>
+            </div>
+            <div class="col-xs-2 text-right">
+                <a class="btn btn-primary" href="~/Producto/Crud">Nuevo registro</a>
+            </div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th style="font-family: URW 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width:130px;">Nombre</th>
+                <th style="font-family:URW 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width:150px;">Precio Unitario</th>
+                <th style="font-family: URW 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width:150px;">Descripcion</th>
+                <th style="font-family:URW 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width:150px;">Activo</th>
+                <th style="font-family: URW 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width:150px;">Tipo Producto</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.NombreProducto</td>
+                    <td>@p.PrecioXUnidad</td>
+                    <td>@p.Descripcion</td>
+                    <td>@Html.DisplayFor(modelItem => p.activo)</td>
+                    <td>@p.</td>
+                    <td class="text-right">
+                        <a class="btn btn-success" href="~/Producto/Ver/@p.IdProducto" title="Visualizar">
+                            <i class="glyphicon glyphicon-hand-right"></i>
+                        </a>
+                        <a class="btn btn-default" href="~/Producto/Crud/@p.IdProducto" title="Editar">
+                            <i class="glyphicon glyphicon-pencil"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
